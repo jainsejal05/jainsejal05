@@ -48,73 +48,15 @@ Welcome to my GitHub! I'm passionate about building impactful software solutions
 </p>
 
 
+## 🚀 Featured Projects
 
-<table>
-<tr>
+[![LearnBridge](https://img.shields.io/badge/📚_LearnBridge-View_Repository-blue?style=for-the-badge)](https://github.com/jainsejal05/learnbridge-platform)
 
-<td align="center" width="300">
+[![Student Performance](https://img.shields.io/badge/📊_Student_Performance-View_Repository-success?style=for-the-badge)](https://github.com/jainsejal05/student-performance-analysis)
 
-### 📚 LearnBridge
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Repository-orange?style=for-the-badge)](https://github.com/jainsejal05/portfolio-website)
 
-Role-based Learning Platform
 
-**Tech:** Flask • MySQL • Bootstrap
-
-<a href="https://github.com/jainsejal05/learnbridge-platform">
-👉 View Repository
-</a>
-
-</td>
-
-<td align="center" width="300">
-
-### 📊 Student Performance Analysis
-
-Machine Learning Project
-
-**Tech:** Python • ML • Power BI
-
-<a href="https://github.com/jainsejal05/student-performance-analysis">
-👉 View Repository
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🌐 Portfolio Website
-
-Personal Portfolio
-
-**Tech:** HTML • CSS • JavaScript
-
-<a href="https://github.com/jainsejal05/portfolio-website">
-👉 View Repository
-</a>
-
-</td>
-
-<td align="center">
-
-### 💻 Java Projects
-
-Core Java & OOP
-
-**Tech:** Java
-
-<a href="https://github.com/jainsejal05/java-projects">
-👉 View Repository
-</a>
-
-</td>
-
-</tr>
-
-</table>
 ## 💼 Internship Experience
 
 ### Full Stack Developer Intern
