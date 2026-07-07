@@ -1,5 +1,120 @@
 ## Hi there 👋
+# Hi there, I'm Sejal Jain 👋
 
+### 💻 Full Stack Developer | 📊 Data Analytics Enthusiast | 🎓 Computer Engineering Student
+
+Welcome to my GitHub! I'm passionate about building impactful software solutions, exploring data analytics, and continuously learning new technologies.
+
+---
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Engineering Student at PCCOE, Pune
+- 💼 Former Full Stack Developer Intern at NextIn Soft
+- 🌱 Currently learning Machine Learning, Cloud Computing, and System Design
+- 💡 Interested in Full Stack Development, Data Analytics, and AI
+- 🚀 Love building real-world applications that solve practical problems
+- 📍 Maharashtra, India
+
+- ## 🛠 Tech Stack
+
+### Programming Languages
+- Python
+- Java
+- C++
+- SQL
+- PHP
+
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+
+### Backend
+- Flask
+- REST APIs
+
+### Databases
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- Power BI
+- Linux
+- VS Code
+- Google Cloud Platform (Basics)
+
+- ## 🚀 Featured Projects
+
+### 📚 LearnBridge
+A web-based learning platform connecting volunteer teachers with students using role-based authentication.
+
+**Tech Stack**
+- HTML
+- CSS
+- Bootstrap
+- Flask
+- MySQL
+
+---
+
+### 📊 Student Performance Analysis
+A Machine Learning project that analyzes student performance and predicts academic outcomes using data visualization techniques.
+
+**Tech Stack**
+- Python
+- Machine Learning
+- Data Visualization
+- MySQL
+
+---
+
+### 🌐 Portfolio Website *(Coming Soon)*
+A personal portfolio showcasing my projects, skills, and experience.
+
+## 💼 Internship Experience
+
+### Full Stack Developer Intern
+**NextIn Soft**
+
+- Developed responsive web applications
+- Built REST APIs
+- Worked with MySQL and MongoDB
+- Collaborated using Git and GitHub
+
+---
+
+### Web Development Intern
+**R3 System**
+
+- Learned frontend and backend development
+- Worked on API integration
+- Improved responsive web design skills
+
+- ## 🏆 Achievements
+
+- 📄 Published Research Paper in IJNRD
+- 🎓 IIT Bombay Java Programming Certification (92%)
+- ☁ AWS for Everyone Certification
+- 💻 Java MasterClass (140+ Hours)
+- 🤖 GenAI Powered Data Analytics Job Simulation
+- 🏗 Solutions Architecture Job Simulation
+- 🏷 Data Labelling Job Simulation
+
+- ## 🌱 Currently Learning
+
+- Machine Learning
+- Power BI
+- Cloud Computing
+- Docker
+- System Design
+
+- ## 📫 Connect with Me
+
+- 📧 Email: sejaljain50505@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/jain-sejal-436a27342
+- 💻 GitHub: https://github.com/jainsejal05
 <!--
 **jainsejal05/jainsejal05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
