@@ -50,12 +50,27 @@ Welcome to my GitHub! I'm passionate about building impactful software solutions
 
 ## 🚀 Featured Projects
 
-[![LearnBridge](https://img.shields.io/badge/📚_LearnBridge-View_Repository-blue?style=for-the-badge)](https://github.com/jainsejal05/learnbridge-platform)
+🟦 **📚 LearnBridge**
 
-[![Student Performance](https://img.shields.io/badge/📊_Student_Performance-View_Repository-success?style=for-the-badge)](https://github.com/jainsejal05/student-performance-analysis)
+Role-Based Learning Platform
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Repository-orange?style=for-the-badge)](https://github.com/jainsejal05/portfolio-website)
+🔗 **[View Repository](https://github.com/jainsejal05/learnbridge-platform)**
 
+---
+
+🟩 **📊 Student Performance Analysis**
+
+Machine Learning Project
+
+🔗 **[View Repository](https://github.com/jainsejal05/student-performance-analysis)**
+
+---
+
+🟨 **🌐 Portfolio Website**
+
+Personal Portfolio
+
+🔗 **[View Repository](https://github.com/jainsejal05/portfolio-website)**
 
 ## 💼 Internship Experience
 
