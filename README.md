@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there, I'm Sejal Jain 👋
 
 ### 💻 Full Stack Developer | 📊 Data Analytics Enthusiast | 🎓 Computer Engineering Student
