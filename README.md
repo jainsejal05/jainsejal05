@@ -50,27 +50,15 @@ Welcome to my GitHub! I'm passionate about building impactful software solutions
 
 ## 🚀 Featured Projects
 
-🟦 **📚 LearnBridge**
+| 🚀 Project | Description | Link |
+|------------|-------------|------|
+| 📚 **LearnBridge** | Education Platform | **[Open →](https://github.com/jainsejal05/learnbridge-platform)** |
+| 📊 **Student Performance Analysis** | Machine Learning | **[Open →](https://github.com/jainsejal05/student-performance-analysis)** |
+| 🌐 **Portfolio Website** | Personal Website | **[Open →](https://github.com/jainsejal05/portfolio-website)** |
+| 💻 **Java Projects** | OOP & DSA | **[Open →](https://github.com/jainsejal05/java-projects)** |
 
-Role-Based Learning Platform
 
-🔗 **[View Repository](https://github.com/jainsejal05/learnbridge-platform)**
 
----
-
-🟩 **📊 Student Performance Analysis**
-
-Machine Learning Project
-
-🔗 **[View Repository](https://github.com/jainsejal05/student-performance-analysis)**
-
----
-
-🟨 **🌐 Portfolio Website**
-
-Personal Portfolio
-
-🔗 **[View Repository](https://github.com/jainsejal05/portfolio-website)**
 
 ## 💼 Internship Experience
 
