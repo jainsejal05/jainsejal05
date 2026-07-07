@@ -48,30 +48,16 @@ Welcome to my GitHub! I'm passionate about building impactful software solutions
 </p>
 
 
-- ## 🚀 Featured Projects
 
-### 📚 LearnBridge
-A web-based learning platform connecting volunteer teachers with students using role-based authentication.
+## 🚀 Featured Projects
 
-**Tech Stack**
-- HTML
-- CSS
-- Bootstrap
-- Flask
-- MySQL
+<a href="https://github.com/jainsejal05/learnbridge-platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jainsejal05&repo=learnbridge-platform&theme=tokyonight" />
+</a>
 
----
-
-### 📊 Student Performance Analysis
-A Machine Learning project that analyzes student performance and predicts academic outcomes using data visualization techniques.
-
-**Tech Stack**
-- Python
-- Machine Learning
-- Data Visualization
-- MySQL
-
----
+<a href="https://github.com/jainsejal05/student-performance-analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jainsejal05&repo=student-performance-analysis&theme=tokyonight" />
+</a>
 
 ### 🌐 Portfolio Website *(Coming Soon)*
 A personal portfolio showcasing my projects, skills, and experience.
