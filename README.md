@@ -49,19 +49,72 @@ Welcome to my GitHub! I'm passionate about building impactful software solutions
 
 
 
-## 🚀 Featured Projects
+<table>
+<tr>
+
+<td align="center" width="300">
+
+### 📚 LearnBridge
+
+Role-based Learning Platform
+
+**Tech:** Flask • MySQL • Bootstrap
 
 <a href="https://github.com/jainsejal05/learnbridge-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jainsejal05&repo=learnbridge-platform&theme=tokyonight" />
+👉 View Repository
 </a>
+
+</td>
+
+<td align="center" width="300">
+
+### 📊 Student Performance Analysis
+
+Machine Learning Project
+
+**Tech:** Python • ML • Power BI
 
 <a href="https://github.com/jainsejal05/student-performance-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jainsejal05&repo=student-performance-analysis&theme=tokyonight" />
+👉 View Repository
 </a>
 
-### 🌐 Portfolio Website *(Coming Soon)*
-A personal portfolio showcasing my projects, skills, and experience.
+</td>
 
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🌐 Portfolio Website
+
+Personal Portfolio
+
+**Tech:** HTML • CSS • JavaScript
+
+<a href="https://github.com/jainsejal05/portfolio-website">
+👉 View Repository
+</a>
+
+</td>
+
+<td align="center">
+
+### 💻 Java Projects
+
+Core Java & OOP
+
+**Tech:** Java
+
+<a href="https://github.com/jainsejal05/java-projects">
+👉 View Repository
+</a>
+
+</td>
+
+</tr>
+
+</table>
 ## 💼 Internship Experience
 
 ### Full Stack Developer Intern
