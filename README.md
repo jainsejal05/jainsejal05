@@ -15,35 +15,38 @@ Welcome to my GitHub! I'm passionate about building impactful software solutions
 - 🚀 Love building real-world applications that solve practical problems
 - 📍 Maharashtra, India
 
-- ## 🛠 Tech Stack
+- ## 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- Java
-- C++
-- SQL
-- PHP
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,mysql" />
+</p>
 
 ### Frontend
-- HTML
-- CSS
-- Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
 ### Backend
-- Flask
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
 
-### Databases
-- MySQL
-- MongoDB
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### Tools
-- Git
-- GitHub
-- Power BI
-- Linux
-- VS Code
-- Google Cloud Platform (Basics)
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,gcp" />
+</p>
+
+### Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,tensorflow" />
+</p>
+
 
 - ## 🚀 Featured Projects
 
